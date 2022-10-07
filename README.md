@@ -24,3 +24,13 @@
   </div>
  <div>
 
+<div>
+<ul>
+<li><h4>2022.10.06 :</h4><span>MVC 패턴 전 Http 응답, 요청 데이터 처리</span></li>
+<li><h4>2022.10.07 :</h4><span>MVC 패턴 적용 전 jsp에서 비즈니스 로직 처리</span></li>
+<li><h4>2022.10.07 :</h4><span>MVC 패턴 적용 후 jsp에서 비즈니스 로직 제거</span><br><span> (비즈니스 로직은 class파일에서 처리, 데이터 뿌리기만 jsp에서 처리)</span></li>
+
+</ul>
+
+
+</div>

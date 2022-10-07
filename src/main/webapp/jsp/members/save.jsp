@@ -1,12 +1,6 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ page import="hello.servlet.domain.member.Member" %>
-<%@ page import="hello.servlet.domain.member.MemberRepository" %><%--
-  Created by IntelliJ IDEA.
-  User: ki612
-  Date: 2022-10-07
-  Time: 오후 7:30
-  To change this template use File | Settings | File Templates.
---%>
+<%@ page import="hello.servlet.domain.member.MemberRepository" %>
 <%
   //request, response 사용 가능
   MemberRepository memberRepository = MemberRepository.getInstance();
